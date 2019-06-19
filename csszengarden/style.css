@@ -16,8 +16,8 @@ html {
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #0026ff; 
-	background: lightcyan; 
+	color: #72e7e1; 
+	background: rgb(0, 0, 0); 
 	margin: 0; 
 	padding: 0;
 	}
@@ -26,10 +26,10 @@ p {
 	text-align: justify;
 	}
 h3 { 
-	font: italic normal 1.4em georgia, sans-serif;
+	font: italic normal 1.4em georgia, sans-serif, bolder;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: rgb(2, 90, 2);
+	color: rgb(240, 207, 60);
 	}
 a:link { 
 	font-weight: bold; 
